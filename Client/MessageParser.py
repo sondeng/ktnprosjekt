@@ -18,14 +18,17 @@ class MessageParser():
             return self.possible_responses[payload['response']](payload)
         else:
             # Response not valid
+            pass
 
     def parse_error(self, payload):
+        pass
     
     def parse_info(self, payload):
+        pass
 
     def parse_message(self, payload):
-
+        pass
     def parse_history(self, payload):
-
+        pass
 
     # Include more methods for handling the different responses... 
