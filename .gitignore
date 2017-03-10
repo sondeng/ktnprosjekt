@@ -1,3 +1,9 @@
+.idea/workspace.xml
+.idea/workspace_BASE_11674.xml
+.idea/workspace_LOCAL_11674.xml
+.idea/workspace_REMOTE_11674.xml
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -45,3 +51,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/workspace_BASE_11674.xml
+.idea/workspace_LOCAL_11674.xml
+.idea/workspace_REMOTE_11674.xml

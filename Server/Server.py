@@ -28,7 +28,7 @@ class ClientHandler(socketserver.BaseRequestHandler):
             
             # TODO: Add handling of received payload from client
 
-class ServerLogic(): #hva er parameterne?
+class ServerLogic():
 
     #her kommer funksjonene vi onsker aa ha
 
