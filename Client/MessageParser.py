@@ -22,6 +22,7 @@ class MessageParser():
     def parse_info(self, payload):
 
     def parse_message(self, payload):
+        #bruker denne til aa kode til JSON
 
     def parse_history(self, payload):
 

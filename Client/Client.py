@@ -26,6 +26,7 @@ class Client:
     def disconnect(self):
         # TODO: Handle disconnection
         # close clientsocket?
+
         pass
 
     def receive_message(self, message):
